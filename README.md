@@ -1,4 +1,7 @@
-# Para inicializar el proyecto debes tener Ollama instalado
+# Replicacion de la app
+
+
+Para inicializar el proyecto debes tener Ollama instalado
 Ingresa al siguiente link [click aqui](https://ollama.com/), una vez descargado Ollama debes añadir los modelos utilizados.  
 
 Debes hacer esto en tu consola:
